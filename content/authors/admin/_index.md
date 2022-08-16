@@ -32,10 +32,6 @@ highlight_name: true
 title: Brahim Driss [Work in progress]
 email: ""
 ---
-I’m a MSc student at the LAMSADE group at Université Paris Dauphine. I'm looking into the applications of Deep Reinforcement Learning and Monte Carlo Tree Search, generalizing AlphaZero to multiplayer games (Multiplayer Go), following up on my previous Master’s work about AlphaZero adaptation to Stochastic Environments (Settlers of Catan)
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m a MSc student at the [LAMSADE ](https://www.lamsade.dauphine.fr/)group at Université Paris Dauphine. I'm looking into the applications of Deep Reinforcement Learning and Monte Carlo Tree Search, generalizing [AlphaZero ](https://www.deepmind.com/blog/alphazero-shedding-new-light-on-chess-shogi-and-go)to multiplayer games (Multiplayer Go), following up on my previous Master’s work about AlphaZero adaptation to Stochastic Environments (Settlers of Catan) under the supervision of [Pr. Tristan Cazenave.](https://www.lamsade.dauphine.fr/~cazenave/index.php)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
