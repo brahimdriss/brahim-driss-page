@@ -32,6 +32,6 @@ highlight_name: true
 title: Brahim Driss [Work in progress]
 email: ""
 ---
-I’m a MSc student at the [LAMSADE ](https://www.lamsade.dauphine.fr/)group at Université Paris Dauphine. I'm looking into the applications of Deep Reinforcement Learning and Monte Carlo Tree Search, generalizing [AlphaZero ](https://www.deepmind.com/blog/alphazero-shedding-new-light-on-chess-shogi-and-go)to multiplayer games (Multiplayer Go), following up on my previous Master’s work about AlphaZero adaptation to Stochastic Environments (Settlers of Catan) under the supervision of [Pr. Tristan Cazenave.](https://www.lamsade.dauphine.fr/~cazenave/index.php)
+I’m a MSc student at the [LAMSADE ](https://www.lamsade.dauphine.fr/)group at Université Paris Dauphine. I'm looking into the applications of Deep Reinforcement Learning and Monte Carlo Tree Search, generalizing [AlphaZero ](https://www.deepmind.com/blog/alphazero-shedding-new-light-on-chess-shogi-and-go)to multiplayer games ([Multiplayer Go](https://en.wikipedia.org/wiki/Go_variants#Multi-player_Go)), following up on my previous Master’s work about AlphaZero adaptation to Stochastic Environments ([Settlers of Catan](https://en.wikipedia.org/wiki/Catan)) under the supervision of [Pr. Tristan Cazenave.](https://www.lamsade.dauphine.fr/~cazenave/index.php)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
