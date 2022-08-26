@@ -8,7 +8,7 @@ abstract: "Catan is a popular multiplayer board game that involves multiple
   we develop a policy for this game using a convolutional neural network. The
   used deep reinforcement learning algorithm is Expert Iteration [2] which has
   already given excellent results for Alpha Zero and its descendants."
-slides: example
+#slides: example
 url_pdf: ""
 publication_types:
   - "1"
@@ -31,8 +31,8 @@ date: 2022-02-02T01:00:00.000Z
 url_slides: ""
 title: Deep Catan
 tags: []
-projects:
-  - example
+#projects:
+#  - example
 image:
   caption: "Image credit: [**Catan**](https://catan.com)"
   focal_point: ""
