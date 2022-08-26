@@ -20,7 +20,7 @@ summary: Learning to play Catan from scratch without knowledge using deep
 url_dataset: ""
 url_project: ""
 author_notes: []
-publication_short: In EvoApps 2022, Reinforcement Learning in Games at AAAI 2022
+publication_short: In EvoApps 2022 and in Reinforcement Learning in Games at AAAI 2022
 url_source: ""
 url_video: ""
 publication: "In Applications of Evolutionary Computation: 25th European
@@ -29,7 +29,7 @@ publication: "In Applications of Evolutionary Computation: 25th European
 featured: true
 date: 2022-02-02T01:00:00.000Z
 url_slides: ""
-title: An example conference paper
+title: Deep Catan
 tags: []
 projects:
   - example
