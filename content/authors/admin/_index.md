@@ -1,6 +1,6 @@
 ---
 role: MSc Student in Artificial Intelligence
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include Deep Learning, Deep Reinforcement Learning
   and Games.
 interests:
