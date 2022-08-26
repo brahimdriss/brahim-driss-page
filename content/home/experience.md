@@ -22,28 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: LAMSADE, Université Paris Dauphine - PSL
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    #company_logo: org-gc
+    location: Paris
+    date_start: '2022-04-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: - Modification and scaling of AlphaZero in the game of Go, with multiplayer adaptation.
+    
+  - title: Research Assistant
+    company: LAMSADE, Université Paris Dauphine - PSL
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #company_logo: org-x
+    location: Paris
+    date_start: '2021-04-01'
+    date_end: '2021-09-01'
+    description: 
+    * Deep Reinforcement Learning and Monte Carlo Tree Search on Settlers Of Catan game
+    * Implemented and adapted of Expert Iteration, a similar approach to DeepMind’s AlphaGo Zero.
+
+  - title: Data Science Internship,
+      company: Wevioo
+      company_url: ''
+      #company_logo: org-x
+      location: Tunis
+      date_start: '2020-07-01'
+      date_end: '2020-09-31'
+      description:
+      * Searched and implemented a State of the art Deep Learning approach for Time Series forecasting
+      * Handled other exogenous variables that have an impact on the evolution of the temporal data,
+      reduced by 2% the mean absolute error compared to previously used methods.
+      * Deployed final solution as a REST API using Flask.
+   
+   - title: Software developer Internship,
+      company: BH Bank
+      company_url: ''
+      #company_logo: org-x
+      location: Tunis
+      date_start: '2020-07-01'
+      date_end: '2020-09-31'
+      description:
+      * Development of a Workflow automation web application, handling expense requests.
+
 
 design:
   columns: '2'
