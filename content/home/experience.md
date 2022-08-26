@@ -47,10 +47,10 @@ experience:
     date_start: '2020-07-01'
     date_end: '2020-09-31'
     description: |2-
-    * Searched and implemented a State of the art Deep Learning approach for Time Series forecasting
-    * Handled other exogenous variables that have an impact on the evolution of the temporal data, 
-    * Reduced by 2% the mean absolute error compared to previously used methods.
-    * Deployed final solution as a REST API using Flask.
+      * Searched and implemented a State of the art Deep Learning approach for Time Series forecasting
+      * Handled other exogenous variables that have an impact on the evolution of the temporal data, 
+      * Reduced by 2% the mean absolute error compared to previously used methods.
+      * Deployed final solution as a REST API using Flask.
    
    - title: Software developer Internship,
       company: BH Bank
