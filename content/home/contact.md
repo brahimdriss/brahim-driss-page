@@ -25,8 +25,6 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: brahimdriss.bd@gmail.com
-  phone: +33 7 45 32 32 74
   address:
     street: Porte Dauphine
     city: Paris
