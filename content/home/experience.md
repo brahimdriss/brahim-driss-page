@@ -45,7 +45,7 @@ experience:
     company_url: ''
     location: Tunis
     date_start: '2020-07-01'
-    date_end: '2020-09-31'
+    date_end: '2020-09-30'
     description: |2-
       * Searched and implemented a State of the art Deep Learning approach for Time Series forecasting
       * Handled other exogenous variables that have an impact on the evolution of the temporal data, 
@@ -57,7 +57,7 @@ experience:
     company_url: ''
     location: Tunis
     date_start: '2020-07-01'
-    date_end: '2020-09-31'
+    date_end: '2020-09-30'
     description: Development of a Workflow automation web application, handling expense requests.
 
 
