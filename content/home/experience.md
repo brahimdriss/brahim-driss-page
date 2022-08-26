@@ -29,7 +29,7 @@ experience:
     location: Paris
     date_start: '2022-04-01'
     date_end: ''
-    description: - Modification and scaling of AlphaZero in the game of Go, with multiplayer adaptation.
+    description: * Modification and scaling of AlphaZero in the game of Go, with multiplayer adaptation.
     
   - title: Research Assistant
     company: LAMSADE, Université Paris Dauphine - PSL
@@ -38,7 +38,7 @@ experience:
     location: Paris
     date_start: '2021-04-01'
     date_end: '2021-09-01'
-    description: 
+    description: |2-
     * Deep Reinforcement Learning and Monte Carlo Tree Search on Settlers Of Catan game
     * Implemented and adapted of Expert Iteration, a similar approach to DeepMind’s AlphaGo Zero.
 
@@ -49,7 +49,7 @@ experience:
       location: Tunis
       date_start: '2020-07-01'
       date_end: '2020-09-31'
-      description:
+      description: |2-
       * Searched and implemented a State of the art Deep Learning approach for Time Series forecasting
       * Handled other exogenous variables that have an impact on the evolution of the temporal data,
       reduced by 2% the mean absolute error compared to previously used methods.
@@ -62,8 +62,7 @@ experience:
       location: Tunis
       date_start: '2020-07-01'
       date_end: '2020-09-31'
-      description:
-      * Development of a Workflow automation web application, handling expense requests.
+      description: * Development of a Workflow automation web application, handling expense requests.
 
 
 design:
