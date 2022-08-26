@@ -40,7 +40,7 @@ experience:
       * Deep Reinforcement Learning and Monte Carlo Tree Search on Settlers Of Catan game
       * Implemented and adapted of Expert Iteration, a similar approach to DeepMind’s AlphaGo Zero.
 
-  - title: Data Science Internship,
+  - title: Data Science Internship
     company: Wevioo
     company_url: ''
     location: Tunis
@@ -52,13 +52,13 @@ experience:
       * Reduced by 2% the mean absolute error compared to previously used methods.
       * Deployed final solution as a REST API using Flask.
    
-   - title: Software developer Internship,
-      company: BH Bank
-      company_url: ''
-      location: Tunis
-      date_start: '2020-07-01'
-      date_end: '2020-09-31'
-      description: Development of a Workflow automation web application, handling expense requests.
+  - title: Software developer Internship
+    company: BH Bank
+    company_url: ''
+    location: Tunis
+    date_start: '2020-07-01'
+    date_end: '2020-09-31'
+    description: Development of a Workflow automation web application, handling expense requests.
 
 
 design:
